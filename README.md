@@ -1,6 +1,6 @@
 # socket_for_h4kr
 
-<h4 align="center">A chat server that accept multiple client and make them communication </h4>
+<h3 align="center">A chat server that accept multiple client and make them communication </h3>
 
 #### command in linux 
     - python3 server.py
