@@ -6,7 +6,7 @@
     - python3 server.py
     - python3 client.py 
     
-#### command in linux 
+#### command in Windows
     - python server.py
     - python client.py
 
